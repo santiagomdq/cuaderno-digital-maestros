@@ -18,6 +18,13 @@
   font-size: large;
 }
 
+ul li {
+    list-style-type:square;
+    list-style-position:inside;
+    background: #cce5ff;
+    margin: 5px;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
